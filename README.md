@@ -1,1 +1,1 @@
-# P-G-Data-Scientist-Trainee
+# PG-Data-Scientist-Trainee
